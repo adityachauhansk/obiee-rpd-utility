@@ -16,5 +16,5 @@ Compatible OBIEE versions: 12.2.1.4.0+
 
 #### Getting started with the RPD Utility
 
-This application can be converted to a windows executable using a variety of tools:
-Auto PY to EXE @ https://pypi.org/project/auto-py-to-exe/
+This application can be converted to a windows executable using
+Auto PY to EXE: https://pypi.org/project/auto-py-to-exe/
