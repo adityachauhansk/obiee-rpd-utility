@@ -12,7 +12,7 @@ The Application was built for Python 3.6+
 #### Requirements
 
 This app was built using he tkinter package (“Tk interface”) and has only been tested on Windows
-Compatible OBIEE versions: 12.2. 1.4. 0+
+Compatible OBIEE versions: 12.2.1.4.0+
 
 #### Getting started with the RPD Utility
 
