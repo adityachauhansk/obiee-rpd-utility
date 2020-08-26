@@ -1,2 +1,2 @@
-# RPD Deployment App for Windows only
+## OBIEE RPD Deployment App with GUI (Windows)
 
